@@ -10,10 +10,12 @@ At present it provides following features:
 
 Following are the important files you need to bother about:
 1.)package.json - Run npm init 
-                - This will load all necessary node packages
+                - This will load all necessary node packages.
+                - 
 2)Server.js   - This is the node server which contains all the necessary code of the server.
                -This also contains the code which processess , compiles and executes the code sent from the client's coding area to the node server.
-               -To run the server type node Server.js in the terminal
+               -To run the server type node Server.js in the terminal.
+               
 3)Other files are HTML files which forms the UI.There are other files which are created in run time.
 
 
